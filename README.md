@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python and AWS Cloud Practitioner
 - 🤔: I’m looking for remote jobs as a backend developer with Nest.js and/or Laravel!
 - ⚡  Fun fact about me: I have coding OCD.
-- 📫 You can reach me out via
+- 📫 You can reach out to me via
     <div id="badges">
       <a href="https://www.linkedin.com/in/abenezer-ayalneh-b579911b5/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
