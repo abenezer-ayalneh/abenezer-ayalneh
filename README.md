@@ -9,9 +9,6 @@
       <a href="https://www.linkedin.com/in/abenezer-ayalneh-b579911b5/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-      <a href="https://twitter.com/abeni42?t=MHeVsebyghalVgEj2S9pug&s=09" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logoColor=white" alt="Twitter Badge"/>
-      </a>
       <a href="mailto:abenezer.ayalneh.42@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logoColor=white" alt="Email Badge"/>
       </a>
