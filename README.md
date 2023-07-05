@@ -1,10 +1,9 @@
-<h1>About Me! 😎</h1>
+<h1>About Me!</h1>
 
-- 🔭 I’m currently working on Nest.js microservice projects
-- 🌱 I’m currently learning Python and AWS Cloud Practitioner
-- 🤔: I’m looking for remote jobs as a backend developer with Nest.js and/or Laravel!
-- ⚡  Fun fact about me: I have coding OCD.
-- 📫 Links:
+- I’m currently working on Nest.js microservice projects
+- I’m currently learning Python and Data Science
+- I’m looking for remote jobs as a backend developer with Nest.js and/or Laravel
+- Links:
     <div id="badges">
       <a href="https://abenezer-ayalneh.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website Badge"/>
@@ -17,7 +16,7 @@
       </a>
     </div>
   
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="Nest.js" alt="Nest.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
