@@ -7,7 +7,7 @@
 - 📫 You can reach out to me via
     <div id="badges">
       <a href="https://abenezer-ayalneh.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white" alt="Website Badge"/>
+        <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website Badge"/>
       </a>
       <a href="https://www.linkedin.com/in/abenezer-ayalneh-b579911b5/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
