@@ -1,7 +1,7 @@
 <h1>About Me!</h1>
 
-- I’m currently working on Nest.js microservice projects
-- I’m currently learning Python and Data Science
+- I’m currently working on Nest.js monolithic and microservice projects
+- I’m currently learning Rust, Python and Data Science
 - I’m looking for remote jobs as a backend developer with Nest.js and/or Laravel
 - Links:
     <div id="badges">
