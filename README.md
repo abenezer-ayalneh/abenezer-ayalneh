@@ -1,8 +1,8 @@
 <h1>About Me!</h1>
 
 - I’m currently working on Nest.js microservice projects using Kafka
-- I’m currently learning Python and Data Science
-- I’m looking for remote jobs as a full-stack developer with Nest.js/Laravel + React.js
+- I’m currently learning advanced frontend performance improving techniques.
+- I’m looking for remote jobs as a full-stack developer with React.js/Angular + Nest.js/Node.js
 - Links:
     <div id="badges">
       <a href="https://abenezer-ayalneh.vercel.app/" target="_blank">
@@ -24,7 +24,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
  </div>
 
    
