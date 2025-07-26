@@ -1,7 +1,7 @@
 <h1>About Me!</h1>
 
-- I’m currently working on Nest.js microservice projects using Kafka
-- I’m currently learning advanced frontend performance improving techniques.
+- I’m currently working on an online multiplayer word game with ColyseusJS, Nest.js, and LiveKit.
+- I’m currently learning advanced frontend performance improving techniques in React.js and Angular.
 - I’m looking for remote jobs as a full-stack developer with React.js/Angular + Nest.js/Node.js
 - Links:
     <div id="badges">
